@@ -1,0 +1,27 @@
+{
+  "name": "jsmodular",
+  "authors": [
+    "simonppg <simonppg@gmail.com>"
+  ],
+  "description": "Ejemplo para crear modulos en javascript",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "javascript",
+    "module"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "mustache.js": "mustache#~2.2.1"
+  }
+}
